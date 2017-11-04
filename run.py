@@ -23,7 +23,7 @@ def format_data():
             for kk in xrange(4-len(code)):
                 code = "0"+code
 
-            f = open("format_data/"+code+".csv","a")
+            f = open("format_data/"+code+"_"+line[1].strip(" ")+".csv","a")
             tmp = line[2].split(",")
             stock_num = ""
             for ii in tmp:
@@ -41,11 +41,13 @@ def merged(kk,index):
     filename = sorted(os.listdir("format_data/"))
 
     output_lines = []
-    header = "stock_id"
+    header = "stock_id,stock_name"
     flag = 0
     for stock_num in filename:
 
         output = stock_num.split('.')[0]
+        output = output.split("_")
+        output = output[0]+","+output[1].split(",")[0]
         lines = open("format_data/"+stock_num).readlines()
         for ii in xrange(1,len(lines)):
             line = lines[ii].split(",")
@@ -71,5 +73,5 @@ for ii in xrange(1000):
     merged(1,"hold_num")
     merged(2,"hold_perc")
     print "done, begin sleep"
-    a = 3600*24-10
+    a = 3600*24-20
     time.sleep(a)
