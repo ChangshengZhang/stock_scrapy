@@ -47,7 +47,7 @@ def merged(kk,index):
 
         output = stock_num.split('.')[0]
         output = output.split("_")
-        output = output[0]+","+output[1].split(",")[0]
+        output = output[0]+".hk"+","+output[1].split(",")[0]
         lines = open("format_data/"+stock_num).readlines()
         for ii in xrange(1,len(lines)):
             line = lines[ii].split(",")
