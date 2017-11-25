@@ -108,9 +108,6 @@ for ii in xrange(1000):
     merged(1,"hold_num")
     merged(2,"hold_perc")
 
-    time.sleep(10)
-    final_merged()
-
     print "done, begin sleep"
     a = 3600*24-30
     time.sleep(a)
