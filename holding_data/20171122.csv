@@ -1,0 +1,502 @@
+stock_id ;stock_name; holding_num; holding_perc 
+                                    1;                                CK HUTCHISON HOLDINGS LIMITED;                                11,664,298;                                0.30%
+                                    2;                                CLP HOLDINGS LIMITED;                                3,161,800;                                0.11%
+                                    3;                                HONG KONG AND CHINA GAS COMPANY LIMITED, THE;                                17,191,763;                                0.11%
+                                    4;                                WHARF (HOLDINGS) LIMITED, THE;                                2,866,000;                                0.09%
+                                    5;                                HSBC HOLDINGS PLC;                                1,011,350,857;                                4.97%
+                                    6;                                POWER ASSETS HOLDINGS LIMITED;                                8,008,500;                                0.37%
+                                    8;                                PCCW LIMITED;                                7,285,323;                                0.08%
+                                   10;                                HANG LUNG GROUP LIMITED;                                1,336,000;                                0.09%
+                                   11;                                HANG SENG BANK LTD;                                1,636,900;                                0.08%
+                                   12;                                HENDERSON LAND DEVELOPMENT CO LTD;                                4,637,114;                                0.11%
+                                   14;                                HYSAN DEVELOPMENT COMPANY LIMITED;                                780,000;                                0.07%
+                                   16;                                SUN HUNG KAI PROPERTIES LTD;                                3,696,338;                                0.11%
+                                   17;                                NEW WORLD DEVELOPMENT CO LTD;                                26,448,283;                                0.26%
+                                   19;                                SWIRE PACIFIC LTD 'A';                                1,391,000;                                0.14%
+                                   20;                                WHEELOCK AND COMPANY LIMITED;                                790,572;                                0.03%
+                                   23;                                BANK OF EAST ASIA LTD;                                3,583,278;                                0.12%
+                                   27;                                GALAXY ENTERTAINMENT GROUP LIMITED;                                24,942,222;                                0.57%
+                                   35;                                FAR EAST CONSORTIUM INTERNATIONAL LTD;                                1,306,154;                                0.05%
+                                   38;                                FIRST TRACTOR COMPANY LIMITED;                                64,958,100;                                16.57%
+                                   41;                                GREAT EAGLE HOLDINGS LIMITED;                                810,049;                                0.11%
+                                   42;                                NORTHEAST ELECTRIC DEVELOPMENT COMPANY LIMITED;                                20,016,000;                                7.75%
+                                   43;                                C.P. POKPHAND CO LTD;                                4,774,000;                                0.01%
+                                   54;                                HOPEWELL HOLDINGS LIMITED;                                43,000;                                0.00%
+                                   66;                                MTR CORPORATION LIMITED;                                3,481,459;                                0.05%
+                                   69;                                SHANGRI-LA ASIA LIMITED;                                24,976,000;                                0.69%
+                                   81;                                CHINA OVERSEAS GRAND OCEANS GROUP LIMITED;                                24,246,693;                                1.05%
+                                   83;                                SINO LAND CO.LTD.;                                6,342,030;                                0.09%
+                                   86;                                SUN HUNG KAI & CO.LTD;                                3,074,000;                                0.14%
+                                   95;                                LVGEM (CHINA) REAL ESTATE INVESTMENT COMPANY LIMITED;                                17,456,000;                                0.37%
+                                  101;                                HANG LUNG PROPERTIES LIMITED;                                5,078,000;                                0.11%
+                                  107;                                SICHUAN EXPRESSWAY COMPANY LIMITED;                                219,384,000;                                24.50%
+                                  109;                                GOOD RESOURCES HOLDINGS LIMITED;                                60,330,000;                                0.84%
+                                  116;                                CHOW SANG SANG HOLDINGS INTERNATIONAL LIMITED;                                126,000;                                0.01%
+                                  119;                                POLY PROPERTY GROUP CO., LIMITED;                                353,729,000;                                9.65%
+                                  123;                                YUEXIU PROPERTY COMPANY LIMITED;                                375,518,000;                                3.01%
+                                  135;                                KUNLUN ENERGY COMPANY LIMITED;                                36,210,000;                                0.44%
+                                  136;                                HENGTEN NETWORKS GROUP LIMITED;                                4,233,456,000;                                5.66%
+                                  142;                                FIRST PACIFIC CO. LTD.;                                1,174,000;                                0.02%
+                                  144;                                CHINA MERCHANTS PORT HOLDINGS COMPANY LIMITED;                                9,147,342;                                0.27%
+                                  148;                                KINGBOARD CHEMICAL HOLDINGS LIMITED;                                14,665,551;                                1.36%
+                                  151;                                WANT WANT CHINA HOLDINGS LIMITED;                                39,343,446;                                0.31%
+                                  152;                                SHENZHEN INTERNATIONAL HOLDINGS LIMITED;                                38,583,724;                                1.90%
+                                  163;                                EMPEROR INTERNATIONAL HOLDINGS LIMITED;                                4,378,000;                                0.11%
+                                  165;                                CHINA EVERBRIGHT LIMITED;                                100,819,955;                                5.97%
+                                  168;                                TSINGTAO BREWERY COMPANY LIMITED;                                59,964,798;                                9.15%
+                                  173;                                K. WAH INTERNATIONAL HOLDINGS LIMITED;                                42,906,527;                                1.40%
+                                  175;                                GEELY AUTOMOBILE HOLDINGS LIMITED;                                797,110,773;                                8.88%
+                                  177;                                JIANGSU EXPRESSWAY COMPANY LIMITED;                                5,744,818;                                0.46%
+                                  178;                                SA SA INTERNATIONAL HOLDINGS LIMITED;                                14,823,748;                                0.48%
+                                  179;                                JOHNSON ELECTRIC HOLDINGS LIMITED;                                254,000;                                0.02%
+                                  187;                                BEIJING JINGCHENG MACHINERY ELECTRIC COMPANY LIMITED;                                20,764,000;                                20.76%
+                                  198;                                SMI HOLDINGS GROUP LIMITED;                                101,206,400;                                3.72%
+                                  200;                                MELCO INTERNATIONAL DEVELOPMENT LIMITED;                                26,487,000;                                1.72%
+                                  207;                                JOY CITY PROPERTY LIMITED;                                19,718,000;                                0.13%
+                                  215;                                HUTCHISON TELECOMMUNICATIONS HONG KONG HOLDINGS LIMITED;                                75,470,000;                                1.56%
+                                  220;                                UNI-PRESIDENT CHINA HOLDINGS LTD.;                                32,242,489;                                0.73%
+                                  241;                                ALIBABA HEALTH INFORMATION TECHNOLOGY LIMITED;                                276,720,000;                                2.94%
+                                  242;                                SHUN TAK HOLDINGS LIMITED;                                234,270,000;                                7.69%
+                                  245;                                CHINA MINSHENG FINANCIAL HOLDING CORPORATION LIMITED;                                47,860,000;                                0.15%
+                                  256;                                CITYCHAMP WATCH & JEWELLERY GROUP LIMITED;                                244,282,000;                                5.61%
+                                  257;                                CHINA EVERBRIGHT INTERNATIONAL LIMITED;                                128,760,827;                                2.86%
+                                  267;                                CITIC LIMITED;                                39,810,533;                                0.12%
+                                  268;                                KINGDEE INTERNATIONAL SOFTWARE GROUP COMPANY LIMITED;                                207,655,205;                                7.15%
+                                  270;                                GUANGDONG INVESTMENT LIMITED;                                11,210,587;                                0.16%
+                                  272;                                SHUI ON LAND LIMITED;                                599,669,096;                                7.43%
+                                  279;                                FREEMAN FINTECH CORPORATION LIMITED;                                115,980,000;                                0.73%
+                                  285;                                BYD ELECTRONIC (INTERNATIONAL) COMPANY LIMITED;                                137,443,000;                                6.09%
+                                  288;                                WH GROUP LIMITED;                                123,677,500;                                0.84%
+                                  291;                                CHINA RESOURCES BEER (HOLDINGS) COMPANY LIMITED;                                105,589,333;                                3.25%
+                                  293;                                CATHAY PACIFIC AIRWAYS LTD;                                4,890,000;                                0.12%
+                                  295;                                KONG SUN HOLDINGS LIMITED;                                38,900,000;                                0.25%
+                                  297;                                SINOFERT HOLDINGS LIMITED;                                374,822,000;                                5.33%
+                                  300;                                SHENJI GROUP KUNMING MACHINE TOOL COMPANY LIMITED;                                15,684,000;                                11.13%
+                                  303;                                VTECH HOLDINGS LIMITED;                                484,200;                                0.18%
+                                  308;                                CHINA TRAVEL INTERNATIONAL INVESTMENT HONG KONG LIMITED;                                135,742,200;                                2.48%
+                                  315;                                SMARTONE TELECOMMUNICATIONS HOLDINGS LIMITED;                                1,843,534;                                0.15%
+                                  316;                                ORIENT OVERSEAS (INTERNATIONAL) LIMITED;                                7,949,500;                                1.26%
+                                  317;                                CSSC OFFSHORE & MARINE ENGINEERING (GROUP) COMPANY LIMITED;                                13,776,200;                                2.31%
+                                  321;                                TEXWINCA HOLDINGS LIMITED;                                1,344,000;                                0.09%
+                                  322;                                TINGYI (CAYMAN ISLANDS) HOLDING CORP.;                                8,450,000;                                0.14%
+                                  323;                                MAANSHAN IRON & STEEL COMPANY LIMITED;                                82,034,000;                                4.73%
+                                  327;                                PAX GLOBAL TECHNOLOGY LIMITED;                                16,559,000;                                1.49%
+                                  330;                                ESPRIT HOLDINGS LIMITED;                                84,007,300;                                4.38%
+                                  336;                                HUABAO INTERNATIONAL HOLDINGS LIMITED;                                191,438,100;                                6.15%
+                                  337;                                GREENLAND HONG KONG HOLDINGS LIMITED;                                72,272,000;                                2.58%
+                                  338;                                SINOPEC SHANGHAI PETROCHEMICAL COMPANY LIMITED;                                97,947,744;                                2.79%
+                                  341;                                CAFE DE CORAL HOLDINGS LTD;                                74,000;                                0.00%
+                                  345;                                VITASOY INTERNATIONAL HOLDINGS LTD;                                4,284,000;                                0.40%
+                                  347;                                ANGANG STEEL COMPANY LIMITED;                                6,472,076;                                0.59%
+                                  354;                                CHINASOFT INTERNATIONAL LIMITED;                                294,438,423;                                12.25%
+                                  358;                                JIANGXI COPPER COMPANY LIMITED;                                64,282,581;                                4.63%
+                                  363;                                SHANGHAI INDUSTRIAL HOLDINGS LIMITED;                                15,106,756;                                1.38%
+                                  368;                                SINOTRANS SHIPPING LIMITED;                                88,047,167;                                2.20%
+                                  371;                                BEIJING ENTERPRISES WATER GROUP LIMITED;                                300,627,487;                                3.41%
+                                  378;                                FDG KINETIC LIMITED;                                12,080,000;                                0.17%
+                                  384;                                CHINA GAS HOLDINGS LIMITED;                                17,182,149;                                0.33%
+                                  386;                                CHINA PETROLEUM & CHEMICAL CORPORATION;                                324,724,672;                                1.26%
+                                  388;                                HONG KONG EXCHANGES AND CLEARING LIMITED;                                13,751,810;                                1.10%
+                                  390;                                CHINA RAILWAY GROUP LIMITED;                                258,395,299;                                6.13%
+                                  392;                                BEIJING ENTERPRISES HOLDINGS LIMITED;                                80,674,982;                                6.38%
+                                  400;                                COGOBUY GROUP;                                43,796,000;                                2.96%
+                                  410;                                SOHO CHINA LIMITED;                                218,086,000;                                4.18%
+                                  412;                                CHINA SHANDONG HI-SPEED FINANCIAL GROUP LIMITED;                                38,886,000;                                0.15%
+                                  419;                                HUAYI TENCENT ENTERTAINMENT COMPANY LIMITED;                                257,120,000;                                1.90%
+                                  425;                                MINTH GROUP LIMITED;                                84,773,000;                                
+                                  439;                                KUANGCHI SCIENCE LIMITED;                                176,191,000;                                2.87%
+                                  440;                                DAH SING FINANCIAL HOLDINGS LTD;                                1,091,200;                                0.32%
+                                  451;                                GCL NEW ENERGY HOLDINGS LIMITED;                                173,888,000;                                0.91%
+                                  460;                                SIHUAN PHARMACEUTICAL HOLDINGS GROUP LTD.;                                353,482,000;                                3.72%
+                                  467;                                UNITED ENERGY GROUP LIMITED;                                23,544,000;                                0.08%
+                                  468;                                GREATVIEW ASEPTIC PACKAGING COMPANY LIMITED;                                643,000;                                0.04%
+                                  480;                                HKR INTERNATIONAL LTD;                                644,000;                                0.04%
+                                  488;                                LAI SUN DEVELOPMENT COMPANY LIMITED-NEW;                                14,100;                                0.00%
+                                  489;                                DONGFENG MOTOR GROUP COMPANY LIMITED;                                102,562,000;                                3.58%
+                                  493;                                GOME RETAIL HOLDINGS LIMITED;                                1,886,688,000;                                8.74%
+                                  494;                                LI & FUNG LIMITED;                                15,658,000;                                0.18%
+                                  506;                                CHINA FOODS LIMITED;                                220,018,100;                                7.86%
+                                  511;                                TELEVISION BROADCASTS LTD;                                1,263,600;                                0.28%
+                                  522;                                ASM PACIFIC TECHNOLOGY LIMITED;                                18,294,938;                                4.47%
+                                  525;                                GUANGSHEN RAILWAY COMPANY LIMITED;                                183,762,010;                                12.83%
+                                  530;                                GOLDIN FINANCIAL HOLDINGS LIMITED;                                9,370,000;                                0.13%
+                                  535;                                GEMDALE PROPERTIES AND INVESTMENT CORPORATION LIMITED;                                308,816,000;                                1.94%
+                                  546;                                FUFENG GROUP LIMITED;                                109,743,000;                                4.30%
+                                  547;                                DIGITAL DOMAIN HOLDINGS LIMITED;                                809,900,000;                                3.33%
+                                  548;                                SHENZHEN EXPRESSWAY COMPANY LIMITED;                                117,590,000;                                15.72%
+                                  551;                                YUE YUEN INDUSTRIAL (HOLDINGS) LIMITED;                                388,000;                                0.02%
+                                  552;                                CHINA COMMUNICATIONS SERVICES CORPORATION LIMITED;                                23,194,000;                                0.96%
+                                  553;                                NANJING PANDA ELECTRONICS COMPANY LIMITED;                                74,568,000;                                30.80%
+                                  563;                                SHANGHAI INDUSTRIAL URBAN DEVELOPMENT GROUP LIMITED;                                19,754,000;                                0.41%
+                                  564;                                ZHENGZHOU COAL MINING MACHINERY GROUP COMPANY LIMITED;                                58,778,100;                                24.16%
+                                  566;                                HANERGY THIN FILM POWER GROUP LIMITED;                                658,879,000;                                1.57%
+                                  568;                                SHANDONG MOLONG PETROLEUM MACHINERY COMPANY LIMITED;                                10,244,000;                                3.99%
+                                  570;                                CHINA TRADITIONAL CHINESE MEDICINE HOLDINGS CO LIMITED;                                267,432,000;                                6.03%
+                                  576;                                ZHEJIANG EXPRESSWAY CO., LTD.;                                14,792,839;                                1.02%
+                                  579;                                BEIJING JINGNENG CLEAN ENERGY CO., LIMITED;                                209,282,000;                                8.87%
+                                  581;                                CHINA ORIENTAL GROUP COMPANY LIMITED;                                76,056,000;                                2.15%
+                                  586;                                CHINA CONCH VENTURE HOLDINGS LIMITED;                                46,981,400;                                2.59%
+                                  588;                                BEIJING NORTH STAR COMPANY LIMITED;                                126,318,000;                                17.86%
+                                  590;                                LUK FOOK HOLDINGS (INTERNATIONAL) LIMITED;                                657,000;                                0.10%
+                                  598;                                SINOTRANS LIMITED;                                84,067,000;                                3.91%
+                                  604;                                SHENZHEN INVESTMENT LIMITED;                                306,171,972;                                3.79%
+                                  606;                                CHINA AGRI-INDUSTRIES HOLDINGS LIMITED;                                241,817,597;                                4.60%
+                                  607;                                FULLSHARE HOLDINGS LIMITED;                                4,300,745,000;                                21.79%
+                                  636;                                KERRY LOGISTICS NETWORK LIMITED;                                1,020,000;                                0.05%
+                                  639;                                SHOUGANG FUSHAN RESOURCES GROUP LIMITED;                                196,040,000;                                3.69%
+                                  656;                                FOSUN INTERNATIONAL LIMITED;                                443,983,403;                                5.17%
+                                  658;                                CHINA HIGH SPEED TRANSMISSION EQUIPMENT GROUP CO., LTD.;                                199,909,000;                                12.21%
+                                  659;                                NWS HOLDINGS LIMITED;                                1,881,731;                                0.04%
+                                  665;                                HAITONG INTERNATIONAL SECURITIES GROUP LIMITED;                                273,034,886;                                
+                                  669;                                TECHTRONIC INDUSTRIES CO. LTD.;                                801,850;                                0.04%
+                                  670;                                CHINA EASTERN AIRLINES CORPORATION LIMITED;                                469,240,000;                                10.06%
+                                  680;                                NAN HAI CORPORATION LIMITED;                                1,679,850,000;                                2.43%
+                                  683;                                KERRY PROPERTIES LIMITED;                                2,353,500;                                0.15%
+                                  686;                                PANDA GREEN ENERGY GROUP LIMITED;                                46,962,000;                                0.49%
+                                  687;                                HONG KONG INTERNATIONAL CONSTRUCTION INVESTMENT MANAGEMENT GROUP CO., LIMITED;                                3,448,000;                                0.10%
+                                  688;                                CHINA OVERSEAS LAND & INVESTMENT LIMITED;                                188,742,647;                                1.71%
+                                  691;                                CHINA SHANSHUI CEMENT GROUP LIMITED;                                1,695,000;                                0.05%
+                                  694;                                BEIJING CAPITAL INTERNATIONAL AIRPORT COMPANY LIMITED;                                28,506,845;                                1.51%
+                                  696;                                TRAVELSKY TECHNOLOGY LIMITED;                                30,621,982;                                3.27%
+                                  698;                                TONGDA GROUP HOLDINGS LIMITED;                                84,088,500;                                1.38%
+                                  699;                                CAR INC.;                                109,458,000;                                5.03%
+                                  700;                                TENCENT HOLDINGS LIMITED;                                161,099,520;                                1.68%
+                                  709;                                GIORDANO INTERNATIONAL LIMITED;                                1,242,000;                                0.07%
+                                  715;                                CHINA OCEANWIDE HOLDINGS LIMITED;                                1,064,000;                                0.00%
+                                  718;                                TAI UNITED HOLDINGS LIMITED;                                21,570,000;                                0.41%
+                                  719;                                SHANDONG XINHUA PHARMACEUTICAL COMPANY LIMITED;                                41,568,000;                                27.71%
+                                  721;                                CHINA FINANCIAL INTERNATIONAL INVESTMENTS LIMITED;                                529,520,000;                                4.82%
+                                  728;                                CHINA TELECOM CORPORATION LIMITED;                                267,325,446;                                1.92%
+                                  729;                                FDG ELECTRIC VEHICLES LIMITED;                                951,955,000;                                4.24%
+                                  732;                                TRULY INTERNATIONAL HOLDINGS LIMITED;                                493,558,000;                                15.81%
+                                  735;                                CHINA POWER CLEAN ENERGY DEVELOPMENT COMPANY LIMITED;                                48,932,500;                                4.12%
+                                  737;                                HOPEWELL HIGHWAY INFRASTRUCTURE LIMITED -HKD TRADED SHARES;                                1,684,500;                                0.05%
+                                  751;                                SKYWORTH DIGITAL HOLDINGS LIMITED;                                137,797,521;                                4.49%
+                                  753;                                AIR CHINA LIMITED;                                337,176,640;                                7.38%
+                                  754;                                HOPSON DEVELOPMENT HOLDINGS LIMITED;                                27,866,000;                                1.25%
+                                  762;                                CHINA UNICOM (HONG KONG) LIMITED;                                238,529,971;                                0.99%
+                                  763;                                ZTE CORPORATION;                                105,625,187;                                13.98%
+                                  775;                                CK LIFE SCIENCES INT'L., (HOLDINGS) INC.;                                48,358,000;                                0.50%
+                                  777;                                NETDRAGON WEBSOFT HOLDINGS LIMITED;                                8,259,511;                                1.53%
+                                  787;                                GLOBAL BRANDS GROUP HOLDING LIMITED;                                313,422,000;                                3.65%
+                                  799;                                IGG INC;                                94,281,767;                                6.98%
+                                  806;                                VALUE PARTNERS GROUP LIMITED;                                41,247,000;                                2.22%
+                                  811;                                XINHUA WINSHARE PUBLISHING AND MEDIA CO., LTD.;                                39,796,000;                                9.00%
+                                  813;                                SHIMAO PROPERTY HOLDINGS LIMITED;                                9,032,000;                                0.26%
+                                  816;                                HUADIAN FUXIN ENERGY CORPORATION LIMITED;                                38,808,000;                                1.50%
+                                  817;                                CHINA JINMAO HOLDINGS GROUP LIMITED;                                710,058,000;                                6.65%
+                                  819;                                TIANNENG POWER INTERNATIONAL LIMITED;                                32,520,000;                                2.88%
+                                  829;                                SHENGUAN HOLDINGS (GROUP) LIMITED;                                176,608,000;                                5.41%
+                                  836;                                CHINA RESOURCES POWER HOLDINGS COMPANY LIMITED;                                35,336,347;                                0.73%
+                                  845;                                GLORIOUS PROPERTY HOLDINGS LIMITED;                                7,140,000;                                0.09%
+                                  846;                                MINGFA GROUP (INTERNATIONAL) COMPANY LIMITED;                                5,261,000;                                0.08%
+                                  853;                                MICROPORT SCIENTIFIC CORPORATION;                                18,871,413;                                1.29%
+                                  855;                                CHINA WATER AFFAIRS GROUP LIMITED;                                167,096,000;                                10.43%
+                                  857;                                PETROCHINA COMPANY LIMITED;                                706,526,771;                                3.33%
+                                  861;                                DIGITAL CHINA HOLDINGS LIMITED;                                701,910,400;                                41.84%
+                                  867;                                CHINA MEDICAL SYSTEM HOLDINGS LIMITED;                                46,759,290;                                1.87%
+                                  868;                                XINYI GLASS HOLDINGS LIMITED;                                55,516,000;                                1.38%
+                                  874;                                GUANGZHOU BAIYUNSHAN PHARMACEUTICAL HOLDINGS CO., LTD.;                                57,772,000;                                26.26%
+                                  880;                                SJM HOLDINGS LIMITED;                                173,260,010;                                3.06%
+                                  881;                                ZHONGSHENG GROUP HOLDINGS LIMITED;                                73,175,126;                                3.22%
+                                  883;                                CNOOC LIMITED;                                58,394,865;                                0.12%
+                                  884;                                CIFI HOLDINGS (GROUP) CO. LTD.;                                384,961,605;                                5.09%
+                                  885;                                RENTIAN TECHNOLOGY HOLDINGS LIMITED;                                5,670,000;                                0.05%
+                                  895;                                DONGJIANG ENVIRONMENTAL COMPANY LIMITED;                                37,037,084;                                18.50%
+                                  902;                                HUANENG POWER INTERNATIONAL, INC.;                                659,181,386;                                14.01%
+                                  911;                                QIANHAI HEALTH HOLDINGS LIMITED;                                1,172,595,000;                                6.88%
+                                  914;                                ANHUI CONCH CEMENT COMPANY LIMITED;                                19,573,637;                                1.50%
+                                  916;                                CHINA LONGYUAN POWER GROUP CORPORATION LIMITED;                                105,451,000;                                3.15%
+                                  921;                                HISENSE KELON ELECTRICAL HOLDINGS COMPANY LIMITED;                                56,687,000;                                12.33%
+                                  931;                                CHINA LNG GROUP LIMITED;                                112,852,000;                                2.00%
+                                  933;                                BRIGHTOIL PETROLEUM (HOLDINGS) LIMITED;                                25,254,000;                                0.24%
+                                  934;                                SINOPEC KANTONS HOLDINGS LIMITED;                                117,582,000;                                4.72%
+                                  939;                                CHINA CONSTRUCTION BANK CORPORATION;                                9,845,673,488;                                4.09%
+                                  941;                                CHINA MOBILE LIMITED;                                24,052,107;                                0.11%
+                                  951;                                CHAOWEI POWER HOLDINGS LIMITED;                                57,519,000;                                5.19%
+                                  958;                                HUANENG RENEWABLES CORPORATION LIMITED;                                419,572,606;                                8.33%
+                                  960;                                LONGFOR PROPERTIES CO. LTD.;                                196,039,846;                                3.32%
+                                  966;                                CHINA TAIPING INSURANCE HOLDINGS COMPANY LIMITED;                                349,373,849;                                9.71%
+                                  967;                                SOUND GLOBAL LTD.;                                289,000;                                0.01%
+                                  968;                                XINYI SOLAR HOLDINGS LIMITED;                                79,225,662;                                1.06%
+                                  976;                                CHIHO ENVIRONMENTAL GROUP LIMITED;                                89,484,000;                                5.57%
+                                  978;                                CHINA MERCHANTS LAND LIMITED;                                39,946,000;                                0.81%
+                                  981;                                SEMICONDUCTOR MANUFACTURING INTERNATIONAL CORPORATION;                                784,894,901;                                16.82%
+                                  991;                                DATANG INTERNATIONAL POWER GENERATION CO.,LTD.;                                293,242,000;                                8.83%
+                                  992;                                LENOVO GROUP LIMITED;                                208,272,893;                                1.73%
+                                  995;                                ANHUI EXPRESSWAY COMPANY LIMITED;                                41,074,000;                                8.32%
+                                  996;                                CARNIVAL GROUP INTERNATIONAL HOLDINGS LIMITED;                                50,352,500;                                0.22%
+                                  998;                                CHINA CITIC BANK CORPORATION LIMITED;                                2,854,322,800;                                19.17%
+                                 1030;                                FUTURE LAND DEVELOPMENT HOLDINGS LIMITED;                                370,928,000;                                6.55%
+                                 1031;                                KINGSTON FINANCIAL GROUP LIMITED;                                3,080,000;                                0.01%
+                                 1033;                                SINOPEC OILFIELD SERVICE CORPORATION;                                351,078,000;                                16.70%
+                                 1038;                                CK INFRASTRUCTURE HOLDINGS LIMITED;                                6,988,000;                                0.25%
+                                 1044;                                HENGAN INTERNATIONAL GROUP COMPANY LIMITED;                                6,883,175;                                0.56%
+                                 1052;                                YUEXIU TRANSPORT INFRASTRUCTURE LIMITED;                                4,182,000;                                0.24%
+                                 1053;                                CHONGQING IRON & STEEL COMPANY LIMITED;                                78,526,000;                                14.59%
+                                 1055;                                CHINA SOUTHERN AIRLINES COMPANY LIMITED;                                635,254,097;                                20.71%
+                                 1057;                                ZHEJIANG SHIBAO COMPANY LIMITED;                                8,942,000;                                4.12%
+                                 1060;                                ALIBABA PICTURES GROUP LIMITED;                                1,603,904,620;                                6.29%
+                                 1065;                                TIANJIN CAPITAL ENVIRONMENTAL PROTECTION GROUP COMPANY LIMITED;                                53,360,200;                                15.69%
+                                 1066;                                SHANDONG WEIGAO GROUP MEDICAL POLYMER COMPANY LIMITED;                                25,035,283;                                1.32%
+                                 1068;                                CHINA YURUN FOOD GROUP LIMITED;                                25,217,000;                                1.38%
+                                 1070;                                TCL MULTIMEDIA TECHNOLOGY HOLDINGS LIMITED;                                13,660,000;                                0.78%
+                                 1071;                                HUADIAN POWER INTERNATIONAL CORPORATION LIMITED;                                410,698,000;                                23.91%
+                                 1072;                                DONGFANG ELECTRIC CORPORATION LIMITED;                                75,760,610;                                22.27%
+                                 1076;                                IMPERIAL PACIFIC INTERNATIONAL HOLDINGS LIMITED;                                756,460,000;                                0.52%
+                                 1083;                                TOWNGAS CHINA COMPANY LIMITED;                                8,125,085;                                0.28%
+                                 1088;                                CHINA SHENHUA ENERGY COMPANY LIMITED;                                308,480,073;                                9.07%
+                                 1093;                                CSPC PHARMACEUTICAL GROUP LIMITED;                                379,263,521;                                6.07%
+                                 1097;                                I-CABLE COMMUNICATIONS LIMITED;                                1,221,163;                                0.01%
+                                 1098;                                ROAD KING INFRASTRUCTURE LIMITED;                                9,575,000;                                1.28%
+                                 1099;                                SINOPHARM GROUP CO. LTD.;                                47,290,020;                                3.96%
+                                 1108;                                LUOYANG GLASS COMPANY LIMITED;                                57,172,000;                                22.86%
+                                 1109;                                CHINA RESOURCES LAND LIMITED;                                130,423,392;                                1.87%
+                                 1111;                                CHONG HING BANK LIMITED;                                1,368,500;                                0.20%
+                                 1112;                                HELATH AND HAPPINESS (H&H) INTERNATIONAL HOLDINGS LIMITED;                                61,182,887;                                9.61%
+                                 1113;                                CK ASSET HOLDINGS LIMITED;                                7,493,898;                                0.20%
+                                 1114;                                BRILLIANCE CHINA AUTOMOTIVE HOLDINGS LIMITED;                                139,751,841;                                2.76%
+                                 1115;                                TIBET WATER RESOURCES LTD.;                                117,601,000;                                4.57%
+                                 1117;                                CHINA MODERN DAIRY HOLDINGS LTD.;                                125,101,000;                                2.03%
+                                 1128;                                WYNN MACAU, LIMITED;                                72,085,600;                                1.38%
+                                 1138;                                COSCO SHIPPING ENERGY TRANSPORTATION CO., LTD.;                                123,950,000;                                9.55%
+                                 1141;                                CMBC CAPITAL HOLDINGS LIMITED;                                388,980,000;                                0.84%
+                                 1157;                                ZOOMLION HEAVY INDUSTRY SCIENCE AND TECHNOLOGY CO., LTD.;                                75,270,522;                                5.42%
+                                 1165;                                SHUNFENG INTERNATIONAL CLEAN ENERGY LIMITED;                                417,340,000;                                9.67%
+                                 1169;                                HAIER ELECTRONICS GROUP CO., LTD.;                                12,977,059;                                0.46%
+                                 1171;                                YANZHOU COAL MINING COMPANY LIMITED;                                169,985,500;                                8.70%
+                                 1177;                                SINO BIOPHARMACEUTICAL LIMITED;                                206,130,956;                                2.77%
+                                 1186;                                CHINA RAILWAY CONSTRUCTION CORPORATION LIMITED;                                76,266,277;                                3.67%
+                                 1188;                                HYBRID KINETIC GROUP LIMITED;                                179,760,000;                                0.88%
+                                 1193;                                CHINA RESOURCES GAS GROUP LIMITED;                                5,407,000;                                0.23%
+                                 1196;                                REALORD GROUP HOLDINGS LIMITED;                                24,190,000;                                2.10%
+                                 1199;                                COSCO SHIPPING PORTS LIMITED;                                11,336,978;                                0.36%
+                                 1205;                                CITIC RESOURCES HOLDINGS LIMITED;                                165,884,100;                                2.10%
+                                 1208;                                MMG LIMITED;                                163,866,000;                                2.05%
+                                 1211;                                BYD COMPANY LIMITED;                                18,452,069;                                2.01%
+                                 1212;                                LIFESTYLE INTERNATIONAL HOLDINGS LIMITED;                                251,500;                                0.01%
+                                 1230;                                YASHILI INTERNATIONAL HOLDINGS LTD;                                47,899,406;                                1.00%
+                                 1234;                                CHINA LILANG LIMITED;                                26,716,000;                                2.23%
+                                 1236;                                NATIONAL AGRICULTURAL HOLDINGS LIMITED;                                48,048,000;                                2.26%
+                                 1238;                                POWERLONG REAL ESTATE HOLDINGS LIMITED;                                34,334,000;                                0.85%
+                                 1250;                                BEIJING ENTERPRISES CLEAN ENERGY GROUP LIMITED;                                2,274,940,000;                                3.58%
+                                 1253;                                CHINA GREENLAND BROAD GREENSTATE GROUP COMPANY LIMITED;                                16,216,000;                                0.48%
+                                 1257;                                CHINA EVERBRIGHT GREENTECH LIMITED;                                10,519,000;                                0.50%
+                                 1282;                                CHINA GOLDJOY GROUP LIMITED;                                1,824,340,000;                                7.91%
+                                 1288;                                AGRICULTURAL BANK OF CHINA LIMITED;                                2,317,352,000;                                7.53%
+                                 1293;                                GRAND BAOXIN AUTO GROUP LIMITED;                                162,692,394;                                5.72%
+                                 1299;                                AIA GROUP LIMITED;                                23,576,140;                                0.19%
+                                 1302;                                LIFETECH SCIENTIFIC CORPORATION;                                287,268,000;                                6.63%
+                                 1308;                                SITC INTERNATIONAL HOLDINGS COMPANY LIMITED;                                15,255,000;                                0.57%
+                                 1310;                                HKBN LTD.;                                178,500;                                0.01%
+                                 1313;                                CHINA RESOURCES CEMENT HOLDINGS LIMITED;                                27,496,000;                                0.41%
+                                 1315;                                VISION FAME INTERNATIONAL HOLDING LIMITED;                                700,146,000;                                11.66%
+                                 1316;                                NEXTEER AUTOMOTIVE GROUP LIMITED;                                29,380,000;                                1.17%
+                                 1317;                                CHINA MAPLE LEAF EDUCATIONAL SYSTEMS LIMITED;                                111,762,000;                                8.10%
+                                 1333;                                CHINA ZHONGWANG HOLDINGS LIMITED;                                280,294,000;                                5.13%
+                                 1336;                                NEW CHINA LIFE INSURANCE COMPANY LTD.;                                348,617,053;                                33.70%
+                                 1339;                                PEOPLE'S INSURANCE COMPANY (GROUP) OF CHINA LIMITED, THE;                                901,167,000;                                10.32%
+                                 1347;                                HUA HONG SEMICONDUCTOR LIMITED;                                27,987,000;                                2.69%
+                                 1357;                                MEITU, INC.;                                197,652,600;                                
+                                 1359;                                CHINA CINDA ASSET MANAGEMENT CO., LTD.;                                1,371,074,337;                                10.09%
+                                 1361;                                361 DEGREES INTERNATIONAL LIMITED;                                34,141,000;                                1.65%
+                                 1363;                                CT ENVIRONMENTAL GROUP LIMITED;                                231,458,000;                                3.66%
+                                 1368;                                XTEP INTERNATIONAL HOLDINGS LIMITED;                                17,020,000;                                0.76%
+                                 1375;                                CENTRAL CHINA SECURITIES CO., LTD.;                                46,206,000;                                3.69%
+                                 1378;                                CHINA HONGQIAO GROUP LIMITED;                                598,654,431;                                8.23%
+                                 1381;                                CANVEST ENVIRONMENTAL PROTECTION GROUP COMPANY LIMITED;                                19,067,000;                                0.77%
+                                 1382;                                PACIFIC TEXTILES HOLDINGS LIMITED;                                3,489,000;                                0.23%
+                                 1387;                                RENHE COMMERCIAL HOLDINGS COMPANY LIMITED;                                2,308,063,501;                                5.24%
+                                 1398;                                INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED;                                10,133,990,912;                                11.67%
+                                 1432;                                CHINA SHENGMU ORGANIC MILK LIMITED;                                165,900,000;                                2.60%
+                                 1448;                                FU SHOU YUAN INTERNATIONAL GROUP LIMITED;                                64,843,000;                                3.00%
+                                 1458;                                ZHOU HEI YA INTERNATIONAL HOLDINGS COMPANY LIMITED;                                153,035,000;                                6.42%
+                                 1478;                                Q TECHNOLOGY (GROUP) COMPANY LIMITED;                                15,349,000;                                1.40%
+                                 1508;                                CHINA REINSURANCE (GROUP) CORPORATION;                                307,494,000;                                4.60%
+                                 1513;                                LIVZON PHARMACEUTICAL GROUP INC.;                                15,205,700;                                8.03%
+                                 1515;                                CHINA RESOURCES PHOENIX HEALTHCARE HOLDINGS COMPANY LIMITED;                                32,259,000;                                2.47%
+                                 1528;                                RED STAR MACALLINE GROUP CORPORATION LTD.;                                69,619,400;                                6.54%
+                                 1530;                                3SBIO INC.;                                150,951,718;                                5.93%
+                                 1533;                                LANZHOU ZHUANGYUAN PASTURE CO., LTD.;                                1,023,500;                                2.91%
+                                 1548;                                GENSCRIPT BIOTECH CORPORATION;                                88,370,000;                                5.10%
+                                 1551;                                GUANGZHOU RURAL COMMERCIAL BANK CO., LTD;                                1,865,000;                                0.10%
+                                 1569;                                MINSHENG EDUCATION GROUP COMPANY LIMITED;                                98,308,000;                                2.44%
+                                 1578;                                BANK OF TIANJIN CO., LTD.;                                58,000;                                0.00%
+                                 1583;                                QINQIN FOODSTUFFS GROUP (CAYMAN) COMPANY LIMITED;                                54,500;                                0.01%
+                                 1585;                                YADEA GROUP HOLDINGS LTD.;                                49,688,000;                                1.65%
+                                 1606;                                CHINA DEVELOPMENT BANK FINANCIAL LEASING CO., LTD.;                                784,000;                                0.02%
+                                 1608;                                VPOWER GROUP INTERNATIONAL HOLDINGS LIMITED;                                2,296,000;                                0.08%
+                                 1610;                                COFCO MEAT HOLDINGS LIMITED;                                42,755,000;                                1.09%
+                                 1618;                                METALLURGICAL CORPORATION OF CHINA LTD.;                                328,019,000;                                11.42%
+                                 1619;                                TIANHE CHEMICALS GROUP LIMITED;                                193,880,000;                                0.78%
+                                 1622;                                REDCO PROPERTIES GROUP LIMITED;                                9,146,000;                                0.25%
+                                 1628;                                YUZHOU PROPERTIES COMPANY LIMITED;                                33,556,000;                                0.80%
+                                 1635;                                SHANGHAI DAZHONG PUBLIC UTILITIES (GROUP) CO., LTD.;                                52,648,000;                                9.85%
+                                 1636;                                CHINA METAL RESOURCES UTILIZATION LIMITED;                                35,236,000;                                1.42%
+                                 1638;                                KAISA GROUP HOLDINGS LTD.;                                112,708,000;                                1.85%
+                                 1658;                                POSTAL SAVINGS BANK OF CHINA CO., LTD.;                                97,985,000;                                0.49%
+                                 1661;                                WISDOM SPORTS GROUP;                                8,798,000;                                0.55%
+                                 1666;                                TONG REN TANG TECHNOLOGIES CO LTD;                                54,284,000;                                8.63%
+                                 1668;                                CHINA SOUTH CITY HOLDINGS LIMITED;                                815,562,000;                                10.18%
+                                 1680;                                MACAU LEGEND DEVELOPMENT LIMITED;                                243,259,000;                                3.87%
+                                 1685;                                BOER POWER HOLDINGS LIMITED;                                3,232,000;                                0.41%
+                                 1728;                                CHINA ZHENGTONG AUTO SERVICES HOLDINGS LIMITED;                                107,047,000;                                4.82%
+                                 1766;                                CRRC CORPORATION LIMITED;                                402,702,370;                                9.20%
+                                 1776;                                GF SECURITIES CO., LTD.;                                61,608,524;                                3.62%
+                                 1777;                                FANTASIA HOLDINGS GROUP CO., LIMITED;                                44,407,500;                                0.77%
+                                 1778;                                COLOUR LIFE SERVICES GROUP CO., LIMITED;                                86,440,000;                                8.68%
+                                 1788;                                GUOTAI JUNAN INTERNATIONAL HOLDINGS LIMITED;                                192,002,000;                                2.73%
+                                 1800;                                CHINA COMMUNICATIONS CONSTRUCTION COMPANY LIMITED;                                121,364,509;                                2.73%
+                                 1811;                                CGN NEW ENERGY HOLDINGS CO., LTD.;                                156,932,000;                                3.65%
+                                 1812;                                SHANDONG CHENMING PAPER HOLDINGS LIMITED;                                44,754,500;                                12.70%
+                                 1813;                                KWG PROPERTY HOLDING LIMITED;                                131,360,385;                                4.15%
+                                 1816;                                CGN POWER CO., LTD;                                1,293,473,000;                                11.58%
+                                 1818;                                ZHAOJIN MINING INDUSTRY COMPANY LIMITED;                                20,591,500;                                1.96%
+                                 1828;                                DAH CHONG HONG HOLDINGS LIMITED;                                27,868,950;                                1.50%
+                                 1829;                                CHINA MACHINERY ENGINEERING CORPORATION;                                752,000;                                0.08%
+                                 1836;                                STELLA INTERNATIONAL HOLDINGS LIMITED;                                16,000;                                0.00%
+                                 1848;                                CHINA AIRCRAFT LEASING GROUP HOLDINGS LIMITED;                                17,305,000;                                2.55%
+                                 1882;                                HAITIAN INTERNATIONAL HOLDINGS LIMITED;                                7,814,531;                                0.48%
+                                 1883;                                CITIC TELECOM INTERNATIONAL HOLDINGS LIMITED;                                30,434,000;                                0.85%
+                                 1886;                                CHINA HUIYUAN JUICE GROUP LIMITED;                                86,780,500;                                3.24%
+                                 1888;                                KINGBOARD LAMINATES HOLDINGS LIMITED;                                12,411,077;                                0.39%
+                                 1898;                                CHINA COAL ENERGY COMPANY LIMITED;                                266,041,307;                                6.47%
+                                 1918;                                SUNAC CHINA HOLDINGS LIMITED;                                1,001,882,341;                                24.17%
+                                 1919;                                COSCO SHIPPING HOLDINGS CO., LTD.;                                271,383,000;                                10.51%
+                                 1928;                                SANDS CHINA LTD.;                                30,056,600;                                0.36%
+                                 1929;                                CHOW TAI FOOK JEWELLERY GROUP LIMITED;                                11,656,000;                                0.11%
+                                 1958;                                BAIC MOTOR CORPORATION LIMITED;                                180,823,500;                                8.60%
+                                 1963;                                BANK OF CHONGQING CO., LTD.;                                49,468,500;                                3.13%
+                                 1966;                                CHINA SCE PROPERTY HOLDINGS LIMITED;                                106,562,000;                                2.78%
+                                 1970;                                IMAX CHINA HOLDING, INC.;                                4,353,900;                                1.21%
+                                 1972;                                SWIRE PROPERTIES LIMITED;                                1,691,400;                                0.02%
+                                 1980;                                TIAN GE INTERACTIVE HOLDINGS LIMITED;                                44,310,372;                                3.47%
+                                 1988;                                CHINA MINSHENG BANKING CORP., LTD.;                                627,242,500;                                9.04%
+                                 1999;                                MAN WAH HOLDINGS LIMITED;                                286,222,779;                                7.50%
+                                 2005;                                SSY GROUP LIMITED;                                151,658,000;                                5.32%
+                                 2007;                                COUNTRY GARDEN HOLDINGS COMPANY LIMITED;                                311,684,312;                                1.45%
+                                 2008;                                PHOENIX SATELLITE TELEVISION HOLDINGS LIMITED;                                237,136,000;                                4.74%
+                                 2009;                                BBMG CORPORATION;                                239,991,500;                                10.25%
+                                 2016;                                CHINA ZHESHANG BANK CO., LTD.;                                317,000;                                0.00%
+                                 2018;                                AAC TECHNOLOGIES HOLDINGS INC.;                                50,621,160;                                4.14%
+                                 2020;                                ANTA SPORTS PRODUCTS LIMITED;                                50,221,500;                                1.86%
+                                 2038;                                FIH MOBILE LIMITED;                                37,514,000;                                0.46%
+                                 2039;                                CHINA INTERNATIONAL MARINE CONTAINERS (GROUP) CO., LTD.;                                16,495,200;                                0.96%
+                                 2066;                                SHENGJING BANK CO., LTD.;                                1,592,500;                                0.10%
+                                 2098;                                ZALL GROUP LTD.;                                229,279,000;                                1.97%
+                                 2111;                                BEST PACIFIC INTERNATIONAL HOLDINGS LIMITED;                                2,752,000;                                0.26%
+                                 2128;                                CHINA LESSO GROUP HOLDINGS LIMITED;                                38,242,000;                                1.22%
+                                 2136;                                LIFESTYLE CHINA GROUP LIMITED;                                493,500;                                0.03%
+                                 2186;                                LUYE PHARMA GROUP LTD.;                                484,948,500;                                14.59%
+                                 2196;                                SHANGHAI FOSUN PHARMACEUTICAL (GROUP) CO., LTD.;                                74,916,799;                                15.47%
+                                 2199;                                REGINA MIRACLE INTERNATIONAL (HOLDINGS) LIMITED;                                7,303,000;                                0.59%
+                                 2202;                                CHINA VANKE CO., LTD.;                                93,172,733;                                7.08%
+                                 2208;                                XINJIANG GOLDWIND SCIENCE & TECHNOLOGY CO., LTD.;                                174,712,893;                                26.87%
+                                 2233;                                WEST CHINA CEMENT LIMITED;                                18,426,000;                                0.33%
+                                 2238;                                GUANGZHOU AUTOMOBILE GROUP CO., LTD.;                                490,116,455;                                22.13%
+                                 2255;                                HAICHANG OCEAN PARK HOLDINGS LTD.;                                17,402,000;                                0.43%
+                                 2269;                                WUXI BIOLOGICS (CAYMAN) INC.;                                2,902,000;                                0.23%
+                                 2280;                                HC INTERNATIONAL, INC.;                                14,290,500;                                1.31%
+                                 2282;                                MGM CHINA HOLDINGS LIMITED;                                29,149,933;                                0.75%
+                                 2298;                                COSMO LADY (CHINA) HOLDINGS COMPANY LIMITED;                                38,265,000;                                1.77%
+                                 2313;                                SHENZHOU INTERNATIONAL GROUP HOLDINGS LIMITED;                                30,728,554;                                2.03%
+                                 2314;                                LEE & MAN PAPER MANUFACTURING LIMITED;                                54,669,000;                                1.20%
+                                 2318;                                PING AN INSURANCE (GROUP) COMPANY OF CHINA, LTD.;                                205,368,442;                                2.75%
+                                 2319;                                CHINA MENGNIU DAIRY COMPANY LIMITED;                                72,539,294;                                1.83%
+                                 2326;                                NEW PROVENANCE EVERLASTING HOLDINGS LIMITED;                                67,530,000;                                0.31%
+                                 2328;                                PICC PROPERTY AND CASUALTY COMPANY LIMITED;                                299,476,787;                                6.50%
+                                 2329;                                GUORUI PROPERTIES LIMITED;                                148,742,000;                                3.34%
+                                 2331;                                LI NING COMPANY LIMITED;                                13,050,500;                                0.59%
+                                 2333;                                GREAT WALL MOTOR COMPANY LIMITED;                                848,700,880;                                27.37%
+                                 2338;                                WEICHAI POWER CO., LTD.;                                12,618,335;                                0.64%
+                                 2343;                                PACIFIC BASIN SHIPPING LIMITED;                                42,139,000;                                0.95%
+                                 2356;                                DAH SING BANKING GROUP LIMITED;                                998,800;                                0.06%
+                                 2357;                                AVICHINA INDUSTRY & TECHNOLOGY COMPANY LIMITED;                                185,635,000;                                7.87%
+                                 2369;                                COOLPAD GROUP LIMITED;                                107,916,000;                                2.14%
+                                 2380;                                CHINA POWER INTERNATIONAL DEVELOPMENT LIMITED;                                603,012,000;                                6.14%
+                                 2382;                                SUNNY OPTICAL TECHNOLOGY (GROUP) COMPANY LIMITED;                                43,692,291;                                3.97%
+                                 2386;                                SINOPEC ENGINEERING (GROUP) CO., LTD.;                                22,100,500;                                1.50%
+                                 2388;                                BOC HONG KONG (HOLDINGS) LIMITED;                                35,990,000;                                0.33%
+                                 2588;                                BOC AVIATION LIMITED;                                22,105,300;                                3.17%
+                                 2600;                                ALUMINUM CORPORATION OF CHINA LIMITED;                                240,292,000;                                6.09%
+                                 2601;                                CHINA PACIFIC INSURANCE (GROUP) CO. LTD.;                                250,494,964;                                9.02%
+                                 2607;                                SHANGHAI PHARMACEUTICALS HOLDING CO., LTD.;                                91,406,492;                                11.92%
+                                 2611;                                GUOTAI JUNAN SECURITIES CO., LTD.;                                35,076,800;                                2.92%
+                                 2628;                                CHINA LIFE INSURANCE COMPANY LIMITED;                                131,312,408;                                1.75%
+                                 2666;                                UNIVERSAL MEDICAL FINANCIAL & TECHNICAL ADVISORY SERVICES COMPANY LIMITED;                                179,871,000;                                10.48%
+                                 2669;                                CHINA OVERSEAS PROPERTY HOLDINGS LIMITED;                                34,031;                                0.00%
+                                 2678;                                TEXHONG TEXTILE GROUP LIMITED;                                4,875,500;                                0.53%
+                                 2688;                                ENN ENERGY HOLDINGS LIMITED;                                2,747,985;                                0.24%
+                                 2689;                                NINE DRAGONS PAPER (HOLDINGS) LIMITED;                                80,266,500;                                1.71%
+                                 2727;                                SHANGHAI ELECTRIC GROUP COMPANY LIMITED;                                658,097,000;                                22.12%
+                                 2768;                                JIAYUAN INTERNATIONAL GROUP LIMITED;                                11,364,000;                                0.51%
+                                 2777;                                GUANGZHOU R&F PROPERTIES CO., LTD.;                                62,262,800;                                6.12%
+                                 2799;                                CHINA HUARONG ASSET MANAGEMENT CO., LTD.;                                386,396,000;                                1.53%
+                                 2866;                                COSCO SHIPPING DEVELOPMENT CO., LTD.;                                506,894,000;                                13.50%
+                                 2869;                                GREENTOWN SERVICE GROUP CO. LTD.;                                223,866,000;                                8.05%
+                                 2877;                                CHINA SHINEWAY PHARMACEUTICAL GROUP LIMITED;                                31,553,000;                                3.81%
+                                 2880;                                DALIAN PORT (PDA) COMPANY LIMITED;                                1,189,748,000;                                23.05%
+                                 2883;                                CHINA OILFIELD SERVICES LIMITED;                                147,079,699;                                8.11%
+                                 2888;                                STANDARD CHARTERED PLC;                                790,350;                                0.02%
+                                 2899;                                ZIJIN MINING GROUP CO., LTD.;                                1,177,008,000;                                20.50%
+                                 3301;                                RONSHINE CHINA HOLDINGS LIMITED;                                23,215,500;                                1.55%
+                                 3308;                                GOLDEN EAGLE RETAIL GROUP LIMITED;                                123,564,000;                                7.37%
+                                 3311;                                CHINA STATE CONSTRUCTION INTERNATIONAL HOLDINGS LIMITED;                                21,109,305;                                0.41%
+                                 3320;                                CHINA RESOURCES PHARMACEUTICAL GROUP LIMITED;                                89,784,500;                                1.42%
+                                 3323;                                CHINA NATIONAL BUILDING MATERIAL COMPANY LIMITED;                                365,203,988;                                12.67%
+                                 3328;                                BANK OF COMMUNICATIONS CO., LTD.;                                789,837,724;                                2.25%
+                                 3329;                                BOCOM INTERNATIONAL HOLDINGS COMPANY LIMITED;                                1,830,000;                                0.06%
+                                 3331;                                VINDA INTERNATIONAL HOLDINGS LIMITED;                                1,134,000;                                0.08%
+                                 3333;                                CHINA EVERGRANDE GROUP;                                232,819,427;                                1.76%
+                                 3339;                                LONKING HOLDINGS LIMITED;                                3,577,000;                                0.08%
+                                 3360;                                FAR EAST HORIZON LIMITED;                                42,379,000;                                1.06%
+                                 3368;                                PARKSON RETAIL GROUP LIMITED;                                6,386,500;                                0.24%
+                                 3369;                                QINHUANGDAO PORT CO., LTD.;                                29,437,500;                                3.54%
+                                 3377;                                SINO-OCEAN GROUP HOLDING LIMITED;                                85,182,000;                                1.12%
+                                 3380;                                LOGAN PROPERTY HOLDINGS COMPANY LIMITED;                                148,382,000;                                2.69%
+                                 3382;                                TIANJIN PORT DEVELOPMENT HOLDINGS LIMITED;                                74,918,000;                                1.21%
+                                 3383;                                AGILE GROUP HOLDINGS LIMITED;                                68,944,000;                                1.75%
+                                 3389;                                HENGDELI HOLDINGS LIMITED;                                964,000;                                0.02%
+                                 3393;                                WASION GROUP HOLDINGS LIMITED;                                2,136,000;                                0.21%
+                                 3396;                                LEGEND HOLDINGS CORPORATION;                                45,983,900;                                11.73%
+                                 3606;                                FUYAO GLASS INDUSTRY GROUP CO., LTD;                                19,477,245;                                3.84%
+                                 3618;                                CHONGQING RURAL COMMERCIAL BANK CO., LTD.;                                241,805,000;                                9.61%
+                                 3698;                                HUISHANG BANK CORPORATION LIMITED;                                7,120,000;                                0.21%
+                                 3788;                                CHINA HANKING HOLDINGS LIMITED;                                18,068,000;                                0.98%
+                                 3799;                                DALI FOODS GROUP COMPANY LIMITED;                                333,967,000;                                2.42%
+                                 3800;                                GCL-POLY ENERGY HOLDINGS LIMITED;                                1,347,674,100;                                7.24%
+                                 3808;                                SINOTRUK (HONG KONG) LIMITED;                                46,281,950;                                1.67%
+                                 3813;                                POU SHENG INTERNATIONAL (HOLDINGS) LIMITED;                                23,369,000;                                0.43%
+                                 3818;                                CHINA DONGXIANG (GROUP) CO., LTD.;                                68,035,000;                                1.19%
+                                 3823;                                TECH PRO TECHNOLOGY DEVELOPMENT LIMITED;                                2,414,168,000;                                30.17%
+                                 3836;                                CHINA HARMONY NEW ENERGY AUTO HOLDING LIMITED;                                58,619,000;                                3.80%
+                                 3883;                                CHINA AOYUAN PROPERTY GROUP LIMTIED;                                218,865,000;                                8.17%
+                                 3886;                                TOWN HEALTH INTERNATIONAL MEDICAL GROUP LIMITED;                                148,662,000;                                1.96%
+                                 3888;                                KINGSOFT CORPORATION LIMITED;                                90,439,156;                                6.89%
+                                 3898;                                ZHUZHOU CRRC TIMES ELECTRIC CO., LTD.;                                52,287,983;                                9.55%
+                                 3899;                                CIMC ENRIC HOLDINGS LIMITED;                                112,078,000;                                5.76%
+                                 3900;                                GREENTOWN CHINA HOLDINGS LIMITED;                                257,088,000;                                11.86%
+                                 3908;                                CHINA INTERNATIONAL CAPITAL CORPORATION LIMITED;                                182,894,180;                                12.02%
+                                 3933;                                UNITED LABORATORIES INTERNATIONAL HOLDINGS LIMITED, THE;                                58,816,000;                                3.61%
+                                 3958;                                DFZQ;                                239,166,440;                                23.28%
+                                 3968;                                CHINA MERCHANTS BANK CO., LTD.;                                567,349,279;                                12.35%
+                                 3969;                                CHINA RAILWAY SIGNAL & COMMUNICATION CORPORATION LIMITED;                                79,743,479;                                4.05%
+                                 3988;                                BANK OF CHINA LIMITED;                                4,030,218,475;                                4.81%
+                                 3993;                                CHINA MOLYBDENUM CO., LTD.;                                657,880,300;                                16.72%
+                                 3996;                                CHINA ENERGY ENGINEERING CORPORATION LIMITED;                                16,090,000;                                0.17%
+                                 3998;                                BOSIDENG INTERNATIONAL HOLDINGS LIMITED;                                461,516,000;                                4.31%
+                                 6030;                                CITIC SECURITIES COMPANY LIMITED;                                50,110,424;                                2.19%
+                                 6066;                                CSC FINANCIAL CO., LTD.;                                63,643,000;                                5.04%
+                                 6099;                                CHINA MERCHANTS SECURITIES CO., LTD.;                                83,542,800;                                8.51%
+                                 6116;                                SHANGHAI LA CHAPELLE FASHION CO., LTD.;                                1,210,600;                                0.56%
+                                 6169;                                CHINA YUHUA EDUCATION CORPORATION LIMITED;                                194,992,000;                                5.99%
+                                 6178;                                EVERBRIGHT SECURITIES COMPANY LIMITED;                                22,574,800;                                3.19%
+                                 6808;                                SUN ART RETAIL GROUP LIMITED;                                38,956,309;                                0.40%
+                                 6818;                                CHINA EVERBRIGHT BANK COMPANY LIMITED;                                974,196,000;                                14.18%
+                                 6828;                                BEIJING GAS BLUE SKY HOLDINGS LIMITED;                                10,008,000;                                0.10%
+                                 6837;                                HAITONG SECURITIES CO., LTD.;                                92,281,561;                                2.70%
+                                 6863;                                CHINA HUISHAN DAIRY HOLDINGS COMPANY LIMITED;                                1,092,671,000;                                8.10%
+                                 6869;                                YANGTZE OPTICAL FIBRE AND CABLE JOINT STOCK LIMITED COMPANY;                                15,609,500;                                4.43%
+                                 6881;                                CHINA GALAXY SECURITIES CO., LTD.;                                262,978,997;                                7.12%
+                                 6886;                                HUATAI SECURITIES CO., LTD.;                                116,838,756;                                6.78%
+                                 8328;                                XINYI AUTOMOBILE GLASS HONG KONG ENTERPRISES LIMITED;                                175,000;                                0.03%
